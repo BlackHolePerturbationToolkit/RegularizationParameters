@@ -5,3 +5,5 @@
 </p>
 
 This package is in development. Once complete it will allow the easy loading of the self-force regularization parameters.
+
+Equations are easy to add using standard LaTeX: $E = m c^2$.
