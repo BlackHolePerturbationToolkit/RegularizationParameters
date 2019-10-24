@@ -19,8 +19,11 @@ The notation used below follows that introduced by Heffernan et al. in Phys. Rev
 |  |			  | | F<sub>a[2]</sub> | R. Hass, E. Poisson						| Phys. Rev. D74 044009 (2006), [arXiv:gr-qc/0605077](https://arxiv.org/abs/gr-qc/0605077)		|
 | | 			  | | F<sub>a[4]</sub>, F<sub>a[6]</sub>  | A. Heffernan, A. Ottewill, B. Wardell						| Phys. Rev. D82 104023 (2012), [arXiv:1204.0794](https://arxiv.org/abs/1204.0794)		|
 | | 			  | Circular| F<sub>a[2]</sub>  | S. Detweiler, E. Messaritaki, B.F. Whiting						| Phys. Rev. D67 104016 (2003), [arXiv:gr-qc/0205079](https://arxiv.org/abs/gr-qc/0205079)		|
-|Self-force | Electromagnetism		  	| Eccentric| F<sub>a[-1]</sub>, F<sub>a[0]</sub> | L. Barack, A. Ori						| Phys. Rev. D67 024029 (2003), [arXiv:gr-qc/0209072](https://arxiv.org/abs/gr-qc/0209072)     |
-|Self-force | Gravity		  	| Eccentric| F<sub>a[-1]</sub>, F<sub>a[0]</sub> | L. Barack, A. Ori						| Phys. Rev. D67 024029 (2003), [arXiv:gr-qc/0209072](https://arxiv.org/abs/gr-qc/0209072)     |
+| | Electromagnetism		  	| Eccentric| F<sub>a[-1]</sub>, F<sub>a[0]</sub> | L. Barack, A. Ori						| Phys. Rev. D67 024029 (2003), [arXiv:gr-qc/0209072](https://arxiv.org/abs/gr-qc/0209072)     |
+| | 		  	| |F<sub>a[2]</sub> | R. Haas					| [arXiv:1112.3707](https://arxiv.org/abs/1112.3707)     |
+| | 		  	| |F<sub>a[4]</sub> | A. Heffernan, A. Ottewill, B. Wardell						| Phys. Rev. D82 104023 (2012), [arXiv:1204.0794](https://arxiv.org/abs/1204.0794)		|
+| | Gravity		  	| Eccentric| F<sub>a[-1]</sub>, F<sub>a[0]</sub> | L. Barack, A. Ori						| Phys. Rev. D67 024029 (2003), [arXiv:gr-qc/0209072](https://arxiv.org/abs/gr-qc/0209072)     |
+| | 		  	| |F<sub>a[2]</sub>, F<sub>a[4]</sub> | A. Heffernan, A. Ottewill, B. Wardell						| Phys. Rev. D82 104023 (2012), [arXiv:1204.0794](https://arxiv.org/abs/1204.0794)		|
 
 
 ### Kerr regularization parameters
