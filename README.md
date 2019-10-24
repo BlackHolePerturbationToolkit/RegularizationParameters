@@ -6,10 +6,10 @@ TODO: Complete the below table
 
 ### Schwarzschild parameters
 
-| Parameters		| Fields			  |Authors										| Reference(s)																					|
-|-------------------|---------------------|---------------------------------------------|-----------------------------------------------------------------------------------------------|
-| A, B Self-force	| Scalar			  | L. Barack and A. Ori						| Phys. Rev. D 66:084022 (2002), [arXiv:gr-qc/0204093](https://arxiv.org/abs/gr-qc/0204093)		|
-| A, B Self-force	| EM, Gravity		  | L. Barack and A. Ori						| Phys. Rev. D 67:024029 (2003), [arXiv:gr-qc/0209072](https://arxiv.org/abs/gr-qc/0209072)     |
+| Expression | Fields			  | Description			  | Parameters		|Authors										| Reference(s)																					|
+|-------------------|-------------------|-------------------|---------------------|---------------------------------------------|-----------------------------------------------------------------------------------------------|
+| Self-force| Scalar			  | Eccentric| A, B | L. Barack and A. Ori						| Phys. Rev. D 66:084022 (2002), [arXiv:gr-qc/0204093](https://arxiv.org/abs/gr-qc/0204093)		|
+|Self-force | EM, Gravity		  	| Eccentric| A, B | L. Barack and A. Ori						| Phys. Rev. D 67:024029 (2003), [arXiv:gr-qc/0209072](https://arxiv.org/abs/gr-qc/0209072)     |
 
 
 ### Kerr regularization parameters
