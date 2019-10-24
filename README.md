@@ -13,10 +13,14 @@ The notation used below follows that introduced by Heffernatn et al. in Phys. Re
 
 ### Schwarzschild parameters
 
-| Expression | Fields			  | Description			  | Parameters		|Authors										| Reference(s)																					|
+| Expression | Fields			  | Description			  | Parameters		|Authors										| Reference(s)															|
 |-------------------|-------------------|-------------------|---------------------|---------------------------------------------|-----------------------------------------------------------------------------------------------|
-| Self-force| Scalar			  | Eccentric| F<sub>a[-1]</sub>, F<sub>a[0]</sub> | L. Barack, A. Ori						| Phys. Rev. D 66:084022 (2002), [arXiv:gr-qc/0204093](https://arxiv.org/abs/gr-qc/0204093)		|
-|Self-force | EM, Gravity		  	| Eccentric| F<sub>a[-1]</sub>, F<sub>a[0]</sub> | L. Barack, A. Ori						| Phys. Rev. D 67:024029 (2003), [arXiv:gr-qc/0209072](https://arxiv.org/abs/gr-qc/0209072)     |
+| Self-force| Scalar			  | Eccentric| F<sub>a[-1]</sub>, F<sub>a[0]</sub> | L. Barack, A. Ori						| Phys. Rev. D66 084022 (2002), [arXiv:gr-qc/0204093](https://arxiv.org/abs/gr-qc/0204093)		|
+|  |			  | | F<sub>a[2]</sub> | R. Hass, E. Poisson						| Phys. Rev. D74 044009 (2006), [arXiv:gr-qc/0605077](https://arxiv.org/abs/gr-qc/0605077)		|
+| | 			  | | F<sub>a[4]</sub>, F<sub>a[6]</sub>  | A. Heffernan, A. Ottewill, B. Wardell						| Phys. Rev. D82 104023 (2012), [arXiv:1204.0794](https://arxiv.org/abs/1204.0794)		|
+| | 			  | Circular| F<sub>a[2]</sub>  | S. Detweiler, E. Messaritaki, B.F. Whiting						| Phys. Rev. D67 104016 (2003), [arXiv:gr-qc/0205079](https://arxiv.org/abs/gr-qc/0205079)		|
+|Self-force | Electromagnetism		  	| Eccentric| F<sub>a[-1]</sub>, F<sub>a[0]</sub> | L. Barack, A. Ori						| Phys. Rev. D67 024029 (2003), [arXiv:gr-qc/0209072](https://arxiv.org/abs/gr-qc/0209072)     |
+|Self-force | Gravity		  	| Eccentric| F<sub>a[-1]</sub>, F<sub>a[0]</sub> | L. Barack, A. Ori						| Phys. Rev. D67 024029 (2003), [arXiv:gr-qc/0209072](https://arxiv.org/abs/gr-qc/0209072)     |
 
 
 ### Kerr regularization parameters
