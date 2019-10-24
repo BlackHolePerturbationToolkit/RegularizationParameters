@@ -25,13 +25,28 @@ The notation used below follows that introduced by Heffernan et al. in Phys. Rev
 | Gravity		  	| Eccentric| F<sub>a[-1]</sub>, F<sub>a[0]</sub> | L. Barack, A. Ori						| Phys. Rev. D67 024029 (2003), [arXiv:gr-qc/0209072](https://arxiv.org/abs/gr-qc/0209072)     |
 | 		  	| |F<sub>a[2]</sub>, F<sub>a[4]</sub> | A. Heffernan, A. Ottewill, B. Wardell						| Phys. Rev. D82 104023 (2012), [arXiv:1204.0794](https://arxiv.org/abs/1204.0794)		|
 
+### Useful scalar quantities
+
+| Expression | Field			  | Description			  | Parameters		|Authors										| Reference(s)															|
+|------------|--------------|-------------------|---------------|---------------------------|--------------------------------------------|
+| Singular Field | Scalar | Circular | &Phi;<sub>[0]</sub>, &Phi;<sub>[2]</sub>  | L.M. Diaz-Rivera, E. Messaritaki, B.F. Whiting, S. Detweiler						| Phys. Rev. D70 124018 (2004), [arXiv:gr-qc/0410011](https://arxiv.org/abs/gr-qc/0410011)		|
+| | | Eccentric | &Phi;<sub>[0]</sub>, &Phi;<sub>[2]</sub>, &Phi;<sub>[4]</sub>, &Phi;<sub>[6]</sub>  | A. Heffernan, A. Ottewill, B. Wardell						| Phys. Rev. D82 104023 (2012), [arXiv:1204.0794](https://arxiv.org/abs/1204.0794)		|
+|Detweiler redshift| Gravity | Eccentric | H<sub>[0]</sub>, H<sub>[2]</sub>, H<sub>[4]</sub>  | A. Heffernan, A. Ottewill, B. Wardell						| Phys. Rev. D82 104023 (2012), [arXiv:1204.0794](https://arxiv.org/abs/1204.0794)		|
+
 ## Kerr Spacetime
 
 ### Geodesic self-force parameters
 
 | Fields			  | Description			  | Parameters		|Authors										| Reference(s)															|
 |-------------------|-------------------|---------------------|---------------------------------------------|-----------------------------------------------------------------------------------------------|
-| Scalar| Eccentric, inclined| F<sub>a[-1]</sub>, F<sub>a[0]</sub>	 | L. Barack and A. Ori						| Phys. Rev. Lett. 90:111101 (2003), [arXiv:gr-qc/0212103](https://arxiv.org/abs/gr-qc/0212103)    |
-| | Eccentric, equatorial| F<sub>a[2]</sub>, F<sub>a[4]</sub>	 |  A. Heffernan, A. Ottewill, B. Wardell							| Phys. Rev. D 89, 024030 (2014), [arXiv:1211.6446](https://arxiv.org/abs/1211.6446)    |
-| Electromagnetism & gravity| Eccentric, inclined| F<sub>a[-1]</sub>, F<sub>a[0]</sub>	 | L. Barack and A. Ori						| Phys. Rev. Lett. 90:111101 (2003), [arXiv:gr-qc/0212103](https://arxiv.org/abs/gr-qc/0212103)    |
-| | Eccentric, equatorial| F<sub>a[2]</sub> |  A. Heffernan, A. Ottewill, B. Wardell							| Phys. Rev. D 89, 024030 (2014), [arXiv:1211.6446](https://arxiv.org/abs/1211.6446)    |
+| Scalar| Eccentric, inclined| F<sub>a[-1]</sub>, F<sub>a[0]</sub>	 | L. Barack, A. Ori						| Phys. Rev. Lett. 90:111101 (2003), [arXiv:gr-qc/0212103](https://arxiv.org/abs/gr-qc/0212103)    |
+| | Eccentric, equatorial| F<sub>a[2]</sub>, F<sub>a[4]</sub>	 |  A. Heffernan, A. Ottewill, B. Wardell							| Phys. Rev. D89 024030 (2014), [arXiv:1211.6446](https://arxiv.org/abs/1211.6446)    |
+| Electromagnetism & gravity| Eccentric, inclined| F<sub>a[-1]</sub>, F<sub>a[0]</sub>	 | L. Barack, A. Ori						| Phys. Rev. Lett. 90:111101 (2003), [arXiv:gr-qc/0212103](https://arxiv.org/abs/gr-qc/0212103)    |
+| | Eccentric, equatorial| F<sub>a[2]</sub> |  A. Heffernan, A. Ottewill, B. Wardell							| Phys. Rev. D89 024030 (2014), [arXiv:1211.6446](https://arxiv.org/abs/1211.6446)    |
+
+### Useful scalar quantities
+
+| Expression | Field			  | Description			  | Parameters		|Authors										| Reference(s)															|
+|------------|--------------|-------------------|---------------|---------------------------|--------------------------------------------|
+| Singular Field | Scalar | Eccentric | &Phi;<sub>[0]</sub>, &Phi;<sub>[2]</sub>, &Phi;<sub>[4]</sub>  | A. Heffernan, A. Ottewill, B. Wardell						| Phys. Rev. D89 024030 (2014), [arXiv:1211.6446](https://arxiv.org/abs/1211.6446)    |
+|Detweiler redshift| Gravity | Eccentric | H<sub>[0]</sub>, H<sub>[2]</sub>  | A. Heffernan, A. Ottewill, B. Wardell						| Phys. Rev. D89 024030 (2014), [arXiv:1211.6446](https://arxiv.org/abs/1211.6446)    |
