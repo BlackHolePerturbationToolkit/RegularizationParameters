@@ -26,8 +26,11 @@ The notation used below follows that introduced by Heffernan et al. in Phys. Rev
 | | 		  	| |F<sub>a[2]</sub>, F<sub>a[4]</sub> | A. Heffernan, A. Ottewill, B. Wardell						| Phys. Rev. D82 104023 (2012), [arXiv:1204.0794](https://arxiv.org/abs/1204.0794)		|
 
 
-### Kerr regularization parameters
+### Kerr parameters
 
-| Parameters		| Fields			  |Authors										| Reference(s)																					   |
-|-------------------|---------------------|---------------------------------------------|--------------------------------------------------------------------------------------------------|
-| A, B, Self-force	| Scalar, EM, Gravity | L. Barack and A. Ori						| Phys. Rev. Lett. 90:111101 (2003), [arXiv:gr-qc/0212103](https://arxiv.org/abs/gr-qc/0212103)    |
+| Expression | Fields			  | Description			  | Parameters		|Authors										| Reference(s)															|
+|-------------------|-------------------|-------------------|---------------------|---------------------------------------------|-----------------------------------------------------------------------------------------------|
+|Self-force| Scalar| Eccentric, inclined| F<sub>a[-1]</sub>, F<sub>a[0]</sub>	 | L. Barack and A. Ori						| Phys. Rev. Lett. 90:111101 (2003), [arXiv:gr-qc/0212103](https://arxiv.org/abs/gr-qc/0212103)    |
+|| | Eccentric, equatorial| F<sub>a[2]</sub>, F<sub>a[4]</sub>	 |  A. Heffernan, A. Ottewill, B. Wardell							| Phys. Rev. D 89, 024030 (2014), [arXiv:1211.6446](https://arxiv.org/abs/1211.6446)    |
+|| Electromagnetism & gravity| Eccentric, inclined| F<sub>a[-1]</sub>, F<sub>a[0]</sub>	 | L. Barack and A. Ori						| Phys. Rev. Lett. 90:111101 (2003), [arXiv:gr-qc/0212103](https://arxiv.org/abs/gr-qc/0212103)    |
+|| | Eccentric, equatorial| F<sub>a[2]</sub> |  A. Heffernan, A. Ottewill, B. Wardell							| Phys. Rev. D 89, 024030 (2014), [arXiv:1211.6446](https://arxiv.org/abs/1211.6446)    |
