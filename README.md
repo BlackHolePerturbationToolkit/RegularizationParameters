@@ -2,7 +2,7 @@
 
 This repository contains all the lastest regularization parameters. These parameters can be used to compute the regular field at the location of the particle. If you use these parameters, please cite the suitable references as laid out below as well as the phbtoolkit. The most generic cases are listed first, with more specific cases following.
 
-The notation used below follows that introduced by Heffernatn et al. in Phys. Rev. D 82, 104023 (2012). This translates to the orignal notation as: <br/>
+The notation used below follows that introduced by Heffernan et al. in Phys. Rev. D 82, 104023 (2012). This translates to the orignal notation as: <br/>
                                                 A<sub>a</sub>: F<sub>a[-1]</sub>,    
                                                 B<sub>a</sub>: F<sub>a[0]</sub>,    
                                                 D<sub>a</sub>: F<sub>a[2]</sub>,    
