@@ -27,7 +27,7 @@ We have made an effort to make this list and the digitally available parameters 
 | Gravity		  	| Eccentric| F<sub>a[-1]</sub>, F<sub>a[0]</sub> | L. Barack, A. Ori						| Phys. Rev. D67 024029 (2003), [arXiv:gr-qc/0209072](https://arxiv.org/abs/gr-qc/0209072)     |
 | 		  	| |F<sub>a[2]</sub>, F<sub>a[4]</sub> | A. Heffernan, A. Ottewill, B. Wardell						| Phys. Rev. D82 104023 (2012), [arXiv:1204.0794](https://arxiv.org/abs/1204.0794)		|
 
-### Useful scalar quantities
+### Useful scalar quantities for geodesic motion
 
 | Expression | Field			  | Description			  | Parameters		|Authors										| Reference(s)															|
 |------------|--------------|-------------------|---------------|---------------------------|--------------------------------------------|
@@ -35,18 +35,27 @@ We have made an effort to make this list and the digitally available parameters 
 |||Circular | &Phi;<sub>[0]</sub>, &Phi;<sub>[2]</sub>  | L.M. Diaz-Rivera, E. Messaritaki, B.F. Whiting, S. Detweiler						| Phys. Rev. D70 124018 (2004), [arXiv:gr-qc/0410011](https://arxiv.org/abs/gr-qc/0410011)		|
 |Detweiler redshift| Gravity | Eccentric | H<sub>[0]</sub>, H<sub>[2]</sub>, H<sub>[4]</sub>  | A. Heffernan, A. Ottewill, B. Wardell						| Phys. Rev. D82 104023 (2012), [arXiv:1204.0794](https://arxiv.org/abs/1204.0794)		|
 
+
+### Non-geodesic parameters
+
+| Expression | Field			  | Description			  | Parameters		|Authors										| Reference(s)															|
+|------------|--------------|-------------------|---------------|---------------------------|--------------------------------------------|
+| Self-force| Scalar | Eccentric | F<sub>a[-1]</sub>, F<sub>a[0]</sub>, F<sub>a[2]</sub> | A. Heffernan <br/> A.Heffernan, A.C. Ottewill, N. Warburton, B. Wardell, P. Diener						| [arXiv:1403.6177](https://arxiv.org/abs/1403.6177) (2014) <br/>Class. Quant. Grav. 35 (2018) 19, 194001, [arXiv:1712.01098](https://arxiv.org/abs/1712.01098)		|
+| |  | Static | F<sub>a[-1]</sub>, F<sub>a[0]</sub>, F<sub>a[2]</sub> | M. Casals, E. Poisson, I. Vega| Phys. Rev. D86 064033 (2012), [arXiv:1206.3772](https://arxiv.org/abs/1206.3772)		|
+| Singular Field | Scalar | Eccentric | &Phi;<sub>[0]</sub>, &Phi;<sub>[2]</sub> | A.Heffernan, A.C. Ottewill, N. Warburton, B. Wardell, P. Diener						| Class. Quant. Grav. 35 (2018) 19, 194001, [arXiv:1712.01098](https://arxiv.org/abs/1712.01098)		|
+
 ## Kerr Spacetime
 
 ### Geodesic self-force parameters
 
-| Fields			  | Description			  | Parameters		|Authors										| Reference(s)															|
+| Field			  | Description			  | Parameters		|Authors										| Reference(s)															|
 |-------------------|-------------------|---------------------|---------------------------------------------|-----------------------------------------------------------------------------------------------|
 | Scalar| Eccentric, inclined| F<sub>a[-1]</sub>, F<sub>a[0]</sub>	 | L. Barack, A. Ori						| Phys. Rev. Lett. 90:111101 (2003), [arXiv:gr-qc/0212103](https://arxiv.org/abs/gr-qc/0212103)    |
 | | Eccentric, equatorial| F<sub>a[2]</sub>, F<sub>a[4]</sub>	 |  A. Heffernan, A. Ottewill, B. Wardell							| Phys. Rev. D89 024030 (2014), [arXiv:1211.6446](https://arxiv.org/abs/1211.6446)    |
 | Electromagnetism & gravity| Eccentric, inclined| F<sub>a[-1]</sub>, F<sub>a[0]</sub>	 | L. Barack, A. Ori						| Phys. Rev. Lett. 90:111101 (2003), [arXiv:gr-qc/0212103](https://arxiv.org/abs/gr-qc/0212103)    |
 | | Eccentric, equatorial| F<sub>a[2]</sub> |  A. Heffernan, A. Ottewill, B. Wardell							| Phys. Rev. D89 024030 (2014), [arXiv:1211.6446](https://arxiv.org/abs/1211.6446)    |
 
-### Useful scalar quantities
+### Useful scalar quantities for geodesic motion
 
 | Expression | Field			  | Description			  | Parameters		|Authors										| Reference(s)															|
 |------------|--------------|-------------------|---------------|---------------------------|--------------------------------------------|
